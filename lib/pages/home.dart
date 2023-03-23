@@ -321,8 +321,8 @@ class MainDrawer extends StatelessWidget {
                 ),
               ),
               const ECWA_AppCard(trans_body: Anthem(), title: "ECWA Anthem",),
-              const ECWA_AppCard(trans_body: Weekly_Act(), title: "Weekly Activities",),
               const ECWA_AppCard(trans_body: felCov(), title: "Fellowship Covenant",),
+              const ECWA_AppCard(trans_body: Weekly_Act(), title: "Weekly Activities",),
               ExpansionTile(
                 collapsedTextColor: Colors.red,
                 textColor: const Color(0xff012bb1),

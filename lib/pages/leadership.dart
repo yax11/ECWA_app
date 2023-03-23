@@ -90,7 +90,6 @@ class LeaderShip extends StatelessWidget {
                       child: Text(
                     "ecwagoodnewsdurumi2@gmail.com",
                     style: TextStyle(
-                      fontSize: 20,
                       color: Color(0xff012bb1),
                     ),
                     textAlign: TextAlign.center,
